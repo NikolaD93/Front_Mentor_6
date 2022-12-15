@@ -55,7 +55,7 @@ const Container = () => {
             onClick={handleClick}
             className="btn bg-orange rounded-full py-3 flex justify-center cursor-pointer transition-all hover:bg-white hover:text-orange"
           >
-            <button className="uppercase">Submit</button>
+            <button className="uppercase tracking-widest">Submit</button>
           </div>
         </div>
       </div>
